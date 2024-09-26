@@ -9,6 +9,7 @@ cd .\backend\
 yarn - install dependencies
 yarn start:dev - run backend
 port - 4000 | 8000
+
 cd .\frontend\
 yarn - install dependencies
 yarn dev - run frontend
