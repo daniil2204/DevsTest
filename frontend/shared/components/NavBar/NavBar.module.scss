@@ -1,0 +1,11 @@
+@import '../NavBar/../../../styles/variable.scss';
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    align-items: center;
+    background-color: $bg_color;
+    min-height: 60px;
+    color: $text_color;
+}
